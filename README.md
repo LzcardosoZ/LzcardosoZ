@@ -179,8 +179,8 @@
 />
 <img 
     align="left" 
-    alt="Apple"
-    title="Apple" 
+    alt="MacOS"
+    title="MacOS" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" 
